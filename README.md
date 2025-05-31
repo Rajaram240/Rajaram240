@@ -51,3 +51,5 @@ Results-driven QA professional with over 6 years of experience in Web Automation
 SeleniumDataDriverCSVFramework:
 https://github.com/Rajaram240/SeleniumDataDriverCSVFramework
 
+Rest assured framework :
+https://github.com/Rajaram240/RestAssuredDDT
